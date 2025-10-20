@@ -16,10 +16,10 @@
 - 自我介绍&技术栈: 建築設計背景、web2 測試工程師、Sui 鏈應用開發
 
 ## 参赛信息
-- [项目代码1]() 
-- [项目代码2]()
+- [项目代码1](https://github.com/231-Labs/pavilion) 
 - [PPT]()
-- [在线地址]()
+- [在线地址(Walrus Site)](https://pavilion.wal.app/)
+- [在线地址(Vercel)](https://pavilion-231.vercel.app/)
 
 ## 其他附加说明
 >> 你想说什么
