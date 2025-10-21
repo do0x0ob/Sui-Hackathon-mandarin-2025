@@ -28,7 +28,7 @@
 - V3: 0x101d6c44aa8b36fcf769d9d07c7d4bc5b3d80bfda7fd13bcae5a3b984ef6c509 `當前最新版本`
 
 
-### 時序圖
+### 架構設計時序圖
 
 **Pavilion Owner**
 
