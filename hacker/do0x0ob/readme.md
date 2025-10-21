@@ -20,6 +20,9 @@
 - [PPT]()
 - [在线地址(Walrus Site)](https://pavilion.wal.app/)
 - [在线地址(Vercel)](https://pavilion-231.vercel.app/)
+- [一頁說明PDF](https://github.com/231-Labs/pavilion/blob/bc8eac6e22cd5c56167f48ca8befe8d904696fac/Pavilion%20-%20%E5%B0%88%E6%A1%88%E7%B0%A1%E4%BB%8B.pdf)
 
 ## 其他附加说明
->> 你想说什么
+合約地址 Testnet
+V1: 0xb36eecdd6193f0770c9af6e9d9476b0f3b45f2ba77f163b7746054146f647841 --有鏈上調用交易紀錄
+V3: 0x101d6c44aa8b36fcf769d9d07c7d4bc5b3d80bfda7fd13bcae5a3b984ef6c509 --當前最新版本
