@@ -8,8 +8,12 @@
 ## 参与赛道
 - [x] Sui官方赛道
 - [x] Bucket赛道
-- [] Scallop赛道
+- [x] Scallop赛道
 - [] Navi赛道
+
+> **Defi 對接現況**
+  > 1. **Bucket:** SDK 只能在主網調用，暫時沒辦法實際演示 Profits 借出 USDB 
+  > 2. **Scallop:** 預計與 `staking_pool` 池子接 Sui Lending 目前只寫了合約，還沒接前端跟 SDK
 
 ## Member
 - [Harper@231 Labs](https://github.com/do0x0ob)
@@ -17,7 +21,8 @@
 
 ## 参赛信息
 - [项目代码1](https://github.com/231-Labs/pavilion) 
-- [PPT]()
+- [PPT](https://hsieh.wal.app/)
+- [Demo Video]()
 - [在线地址(Walrus Site)](https://pavilion.wal.app/)
 - [在线地址(Vercel)](https://pavilion-231.vercel.app/)
 - [一頁說明PDF](https://github.com/231-Labs/pavilion/blob/bc8eac6e22cd5c56167f48ca8befe8d904696fac/Pavilion%20-%20%E5%B0%88%E6%A1%88%E7%B0%A1%E4%BB%8B.pdf)
