@@ -22,7 +22,7 @@
 ## 参赛信息
 - [项目代码1](https://github.com/231-Labs/pavilion) 
 - [PPT](https://hsieh.wal.app/)
-- [Demo Video]()
+- [Demo Video](https://youtu.be/_qVipbsfuus)
 - [在线地址(Walrus Site)](https://pavilion.wal.app/)
 - [在线地址(Vercel)](https://pavilion-231.vercel.app/)
 - [一頁說明PDF](https://github.com/231-Labs/pavilion/blob/bc8eac6e22cd5c56167f48ca8befe8d904696fac/Pavilion%20-%20%E5%B0%88%E6%A1%88%E7%B0%A1%E4%BB%8B.pdf)
